@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [AI-Tutor](https://github.com/solar-node/AI-Tutor)
 
-- 🌱 I’m currently learning **Generation AI, LLMs, and RAG**
+- 🌱 I’m currently exploring **Generative AI, Large Language Models, and Retrieval-Augmented Generation (RAG).** 
 
 - 💬 Ask me about **Machine Learning**
 
