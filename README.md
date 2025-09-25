@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **2023nitsgr094@nitsri.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uJBZQNKzhitpXj3QHESZ2uNN415B8sg1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gLjIueLOH8wbsvLxYNrLjtD0gyVD0TTn/view?usp=sharing)
 
 ###
 
