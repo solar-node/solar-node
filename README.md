@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [AI-Tutor](https://github.com/solar-node/AI-Tutor)
 
-- 🌱 I’m currently learning **Deep Learning, Model Deployment, Front End Development**
+- 🌱 I’m currently learning **Generation AI, LLMs, and RAG**
 
 - 💬 Ask me about **Machine Learning**
 
